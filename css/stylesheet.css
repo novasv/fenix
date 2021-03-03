@@ -1,0 +1,141 @@
+#banner{
+	background-color: rgba(235, 16, 16, 0.5);
+	padding: 25px 50px 25px 100px;
+}
+#banner h1{
+	font-family: "URW Gothic L", sans-serif;
+}
+#banner .botao nav{
+	float: right;
+	position: relative;
+	top: -60px;
+}
+#banner .botao nav ul li{
+	display: inline;
+	margin-right: 20px;
+	
+}
+#banner .botao nav ul li a{
+	text-transform: uppercase;
+	text-decoration: none;
+	font-family: "URW Gothic L", sans-serif;
+	color: #333
+}
+}
+#corpo{ 
+	margin-top: 100px;
+	padding-bottom: 100px;
+}
+#corpo .introd{
+	background-image: url(../img/intro.jpg);
+	background-repeat: no-repeat;
+	padding: 50px 75px 500px 100px;
+
+	
+}
+#corpo .introd h2{
+	position: relative;
+	text-align: center;
+	font-family: "URW Gothic L", sans-serif;
+	font-size: 75px;
+	color: #fff;
+}
+#corpo .introd p{
+	text-align: center;
+	font-family: "URW Gothic L", sans-serif;
+	font-size: 45px;
+	color: #fff;
+
+}
+#corpo .empresas{
+	padding: 25px 50px 75px 100px;
+	background-image: url(../img/fabrica2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+}
+#corpo .empresas h2{
+	position: relative;
+	text-align: center;
+	font-family: "URW Gothic L", sans-serif;
+	font-size: 75px;
+	color: #fff;
+}
+#corpo .empresas ul{
+	display: inline;
+	text-align: center;
+	
+
+}
+#corpo .empresas ul li{
+	display: inline;
+}
+#corpo .xi{
+	margin: 5px;
+  	width: 180px;
+  	float: right;
+
+}
+#corpo .xi img{
+	width: 100%;
+  	height: auto;
+  	border: 1px #333;
+}
+#corpo .xii{
+	margin: 5px;
+  	width: 180px;
+  	float: left;
+  	border: 1px #333;
+}
+#corpo .xii img{
+	width: 100%;
+  	height: auto;
+  	border: 1px #333;
+}
+#corpo .atuacao{
+	padding: 25px 50px 300px 100px;
+	
+	background-image: url(../img/hexa.jpg);
+}
+#corpo .atuacao h2{
+	text-align: center;
+	position: relative;
+	text-align: center;
+	font-family: "URW Gothic L", sans-serif;
+	font-size: 60px;
+	color: #fff;
+}
+#corpo .atuacao ul{
+	text-align: center;
+	
+	list-style-type: none;
+
+}
+#corpo .atuacao ul li{
+	position: relative;
+	text-align: center;
+	font-family: "URW Gothic L", sans-serif;
+	font-size: 40px;
+	color: #fff;
+}
+
+#rodape{
+	background-color: rgba(235, 16, 16, 0.5);
+	padding: 25px 50px 25px 100px;
+}
+#rodape h2{
+	font-family: "URW Gothic L", sans-serif;
+}
+#rodape .copy{
+	float: right;
+	position: relative;
+	top: -80px;
+}
+#rodape .copy h4{
+	font-family: "URW Gothic L", sans-serif;
+}
+#rodape .copy ul{
+	list-style-type: none;
+	font-family: "URW Gothic L", sans-serif;
+	margin-right: -10px;
+}
